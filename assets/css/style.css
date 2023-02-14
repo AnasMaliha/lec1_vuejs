@@ -1,0 +1,18 @@
+@font-face {
+    src: url("../font/Tajawal-Regular.ttf");
+    font-family: "main";
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "main", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
